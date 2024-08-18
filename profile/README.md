@@ -1,9 +1,15 @@
+
 # Backplane Cloud Abstraction API
+> [!NOTE]
+> Backplane is currently looking for Beta Testers To find out more visit [Backplane Beta Program](https://backplane.dev/docs/beta/)
 
 ![](newlogo.png)
 - [About](https://backplane.dev/about/)
 - [Documentation](https://backplane.dev/docs/)
 - [Quick Start](https://backplane.dev/docs/quick-start/)
+
+
+
 
 
 
@@ -19,7 +25,11 @@ The key features of Backplane are:
   
 - **Policy Data**: Retrieval of Policy data
   
-- **Cost Data**: Retrieval of Cost data
+- *Cost Data*: Retrieval of Cost data (On Backlog)
+
+> [!IMPORTANT]
+> Cost data retrieval functionality is on the Backlog as part of the Cost Extraction Engine. Cost data will need to follow an ETL-pattern before the API can consume cost data. 
+
 
 ## Features
 
@@ -36,10 +46,14 @@ The key features of Backplane are:
 - **Cloud Console**: A management UI for Administration
 
 
+
+
+
 ## Community
 
 - Have a question ? Post it in [Github Discussions](https://github.com/orgs/backplane-cloud/discussions) or on [Backplane Slack](https://backplane-dev.slack.com/)
   
+- To get involved, take a look at our [Roadmap](https://backplane.dev/roadmap/)
 
 
 <!--
