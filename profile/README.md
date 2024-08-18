@@ -1,21 +1,17 @@
 
-# Backplane Cloud Abstraction API
-> [!NOTE]
-> Backplane is currently looking for Beta Testers To find out more visit [Backplane Beta Program](https://backplane.dev/docs/beta/)
-
 ![](newlogo.png)
 - [About](https://backplane.dev/about/)
 - [Documentation](https://backplane.dev/docs/)
 - [Quick Start](https://backplane.dev/docs/quick-start/)
 
+#  Backplane API
+
+Project Backplane is an open-source Cloud Abstraction API for simplifying multi-cloud integration for organisations. It has been open-sourced by Backplante Software Ltd, a UK-based software development company building cloud tooling to simplifying multi-cloud integration. 
+
+> [!NOTE]
+> Backplane is currently looking for Beta Testers To find out more visit [Backplane Beta Program](https://backplane.dev/docs/beta/)
 
 
-
-
-
-Backplane is a Cloud Abstraction API for simplifying multi-cloud integration for organisations. 
-
-The key features of Backplane are: 
 
 ## Core Features
 
