@@ -1,5 +1,6 @@
 # Backplane Cloud Abstraction API
 
+![](logo-black.svg)
 - [About](https://backplane.dev/about/)
 - [Documentation](https://backplane.dev/docs/)
 - [Quick Start](https://backplane.dev/docs/quick-start/)
