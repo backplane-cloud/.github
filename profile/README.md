@@ -6,7 +6,7 @@
 
 #  Backplane API
 
-Project Backplane is an open-source Cloud Abstraction API for simplifying multi-cloud integration for organisations. It has been open-sourced by Backplante Software Ltd, a UK-based software development company building cloud tooling to simplifying multi-cloud integration. 
+Project Backplane is an open-source Cloud Abstraction API for simplifying multi-cloud integration for organisations. It has been open-sourced by Backplane Software Ltd, a UK-based software development company building cloud tooling to simplifying multi-cloud integration. 
 
 > [!NOTE]
 > Backplane is currently looking for Beta Testers To find out more visit [Backplane Beta Program](https://backplane.dev/docs/beta/)
